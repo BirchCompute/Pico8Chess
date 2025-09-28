@@ -1,3 +1,5 @@
 # Pico8Chess
 Chess for the Pico-8
-<img width="640" height="642" alt="image" src="https://github.com/user-attachments/assets/48fdb3aa-2ad4-4aba-805a-fcf76a6ffd5c" />
+
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/19f7c39e-24f6-4135-a036-6fb6a62861b3" />
+
